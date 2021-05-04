@@ -4,3 +4,6 @@ function hello() {
 function addition(a, b) {
 	return(a+b)
 }
+function triArea(base, height) {
+	return((base*height)/2)
+}
