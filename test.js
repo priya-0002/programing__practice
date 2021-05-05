@@ -25,3 +25,6 @@ function convert(minutes) {
 function getFirstValue(arr) {
 	return(arr[0])
 }
+function cubes(a) {
+	return (a**3)
+}
