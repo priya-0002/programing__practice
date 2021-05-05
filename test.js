@@ -28,3 +28,15 @@ function getFirstValue(arr) {
 function cubes(a) {
 	return (a**3)
 }
+function findPerimeter(length, width) {
+	return(2*(length+width))
+}
+function findPerimeter(length, width) {
+	return(2*(length+width))
+}
+function circuitPower(voltage, current) {
+	return(voltage*current)
+	}
+	function howManySeconds(hours) {
+		return(hours*60*60)
+	}
