@@ -10,3 +10,15 @@ function triArea(base, height) {
 function addition(a, b) {
 	return(a*b)
 }
+function squaed(b) {
+	return(b*b)
+}
+function calcAge(age) {
+	return(age*365)
+}
+function remainder(x, y) {
+	return(x%y)
+}
+function convert(minutes) {
+	return(minutes*60)
+}
