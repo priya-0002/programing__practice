@@ -22,3 +22,6 @@ function remainder(x, y) {
 function convert(minutes) {
 	return(minutes*60)
 }
+function getFirstValue(arr) {
+	return(arr[0])
+}
