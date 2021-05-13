@@ -265,4 +265,28 @@ function circuitPower(voltage, current) {
 					console.log(hours*60*60)
 				}
 				howManySeconds(2);
+
+				function giveMeSomething(a) {
+					return( "something" + " " + a);
+			      }
+				  function lessThan100(a, b) {
+					if(a+b<100){
+						return(true)
+					}
+					else{
+						return(false)
+					}
+				}
+				function squared (b) {
+					return( b * b)
+				}
+				function lessThanOrEqualToZero(num) {
+					if(num<=0){
+						return(true)
+					}
+					else{
+						return(false)
+					}
+				}
+
 	
